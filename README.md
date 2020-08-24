@@ -1,11 +1,8 @@
-👋️, my name is Pedro Luz
+<p>👋️, my name is Pedro Luz</p>
 
-Read my [blog](https://pedromsluz.com) or follow [@narven](https://twitter.com/narven) on Twitter.
+<p>Read my [blog](https://pedromsluz.com) or follow [@narven](https://twitter.com/narven) on Twitter.</p>
 
-<p>
-![Github Stat's](https://github-readme-stats.vercel.app/api?username=Narven&show_icons=true&theme=tokyonight)
-
-</p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Narven&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 	<a href="https://github.com/narven"><img src="https://img.shields.io/github/followers/narven?label=narven&style=social" alt="GitHub"></a>&nbsp;
