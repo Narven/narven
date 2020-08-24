@@ -3,7 +3,7 @@
 Read my [blog](https://pedromsluz.com) or follow [@narven](https://twitter.com/narven) on Twitter.
 
 <p>
-[Github Stat's](https://github-readme-stats.vercel.app/api?username=Narven&show_icons=true&theme=tokyonight)
+[![Github Stat's]](https://github-readme-stats.vercel.app/api?username=Narven&show_icons=true&theme=tokyonight)
 </p>
 
 <p align="center">
