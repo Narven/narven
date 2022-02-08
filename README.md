@@ -1,4 +1,5 @@
-👋️, my name is Pedro Luz. I'm a 🇵🇹️ software engineer living in the 🇬🇧️. Currently interested in #go, #rust, #flutter. Great passion for anything #scifi and my #guitar.
+👋️, my name is Pedro Luz. I'm a 🇵🇹️ software engineer living in the 🇬🇧️. Currently interested in #elixir #dart #flutter. Great passion for anything #scifi and my #guitar.
+
 
 Read my [blog](https://pedromsluz.com) or follow [@narven](https://twitter.com/narven) on Twitter.
 
